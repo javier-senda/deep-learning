@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+
+data/raw/
+venv
+venv_conda
